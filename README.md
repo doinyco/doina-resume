@@ -42,7 +42,13 @@ API keys
 
 ## EDUCATION
 - ***Ada Developers Academy*** - Full Stack Web Development & Computer Science Fundamentals (Seattle, WA - Feb 2022/ Jan 2023)
-- ***edX***: Introduction to Computer Science and Programming, CS50's Introduction to Computer Science, Programming for Everybody (Getting Started with Python), Introduction to Programming in C++, Introduction to Cloud Development with HTML, CSS, and JavaScript (June 2021/ Jan 2022)
+- ***edX*** - online classes (June 2021/ Jan 2022): 
+  - Introduction to Computer Science and Programming
+  - CS50's Introduction to Computer Science 
+  - Programming for Everybody (Getting Started with Python)
+  - Introduction to Programming in C++
+  - Introduction to Cloud Development with HTML, CSS, and JavaScript
+- ***Lake Washington Institute of Technology*** - Classes in Math and Communication (Sep 2019 - Jan 2021)
 - ***Moldova State University*** - Bachelor’s Degree in Psychology (Chisinau, Moldova - Sep 2014/ July 2017)
 
 
