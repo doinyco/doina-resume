@@ -53,7 +53,7 @@ API keys
 - Designed and implemented RESTful APIs, routes, user - task relation following CRUD model
 
 ## EDUCATION
-- ***LinkedIn Learning***
+- ***LinkedIn Learning*** - online courses (Summer 2023)
   - [Python Object-Oriented Programming CERTIFICATE](https://www.docdroid.net/GzKh3pm/certificateofcompletion-python-objectoriented-programming-2-pdf)
   
 - ***Ada Developers Academy*** - Full Stack Web Development & Computer Science Fundamentals  (Seattle, WA - Feb 2022/ Jan 2023)
