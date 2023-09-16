@@ -21,6 +21,18 @@ technologies and cloud services platforms
 
 ## TECHNICAL PROJECTS
 
+***Connect Application Backend API (In Progress)*** [Backend repository](https://github.com/doinyco/connect-application-backend)
+Description: Developed and managed the backend of the Connect Application, a Python web platform, utilizing the Flask framework, and designed a RESTful API following the CRUD (Create, Read, Update, Delete) model.
+* Implemented Flask login authentication to enhance user security.
+* Implemented a secure user registration and authentication system to ensure seamless user interactions.
+* Developed event management capabilities, including event creation, updates, and deletions.
+* Enabled file uploads for events, expanding multimedia capabilities.
+* Utilized PostgreSQL for efficient data storage and retrieval.
+* Successfully deployed the backend API on Fly.io for scalability and accessibility.
+* Technologies Used: Flask, Flask-Login, SQLAlchemy, PostgreSQL, Flask-Bcrypt
+* Future Development (Current): Actively working on integrating the backend with a React frontend to provide a comprehensive user experience with intuitive registration and login forms. [Frontend repository](https://github.com/doinyco/connect-application-frontend)
+
+
 ***My Next Gym*** [DEMO](https://www.youtube.com/watch?v=VFmsh5oNHYA)
 - Designed and developed My Next Gym, a fullstack app which provide users an intuitive and easy-to-use interface for
 searching and discovering gyms, using React framework and Google Maps API
