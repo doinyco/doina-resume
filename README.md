@@ -55,6 +55,7 @@ API keys
 ## EDUCATION
 - ***LinkedIn Learning*** - online courses (Summer 2023)
   - [Python Object-Oriented Programming CERTIFICATE](https://www.docdroid.net/GzKh3pm/certificateofcompletion-python-objectoriented-programming-2-pdf)
+  - [Python Data Structures and Algorithms](https://www.docdroid.net/TdUS7fj/certificateofcompletion-python-data-structures-and-algorithms-pdf)
   
 - ***Ada Developers Academy*** - Full Stack Web Development & Computer Science Fundamentals  (Seattle, WA - Feb 2022/ Jan 2023)
   - [CERTIFICATE](https://www.docdroid.net/n1xY0qg/doinas-certificate-pdf)
