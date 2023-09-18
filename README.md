@@ -54,8 +54,8 @@ API keys
 
 ## EDUCATION
 - ***LinkedIn Learning*** - online courses (Aug / Sept 2023)
-  - [Python Object-Oriented Programming CERTIFICATE]****(https://www.docdroid.net/GzKh3pm/certificateofcompletion-python-objectoriented-programming-2-pdf)***
-  - [Python Data Structures and Algorithms CERTIFICATE]***(https://www.docdroid.net/TdUS7fj/certificateofcompletion-python-data-structures-and-algorithms-pdf)***
+  - Python Object-Oriented Programming ***[CERTIFICATE](https://www.docdroid.net/GzKh3pm/certificateofcompletion-python-objectoriented-programming-2-pdf)***
+  - Python Data Structures and Algorithms ***[CERTIFICATE](https://www.docdroid.net/TdUS7fj/certificateofcompletion-python-data-structures-and-algorithms-pdf)***
   
 - ***Ada Developers Academy*** - Full Stack Web Development & Computer Science Fundamentals  (Seattle, WA - Feb 2022/ Jan 2023) ***[CERTIFICATE](https://www.docdroid.net/n1xY0qg/doinas-certificate-pdf)***
   - Capstone Project - My Next Gym: a fullstack app which provide users an intuitive and easy-to-use interface for searching and discovering gyms, using React framework and Google Maps API
