@@ -35,7 +35,7 @@ technologies and cloud services platforms
 
 ***My Next Gym*** [DEMO](https://www.youtube.com/watch?v=VFmsh5oNHYA)
 - Designed and developed My Next Gym, a fullstack app which provide users an intuitive and easy-to-use interface for
-searching and discovering gyms, using React framework and Google Maps API
+searching and discovering gyms, using Flask, React framework and Google Maps API
 - Developed the app as a solo project, demonstrating the ability to work independently and manage a complex software
 development project from start to finish
 - Implemented key features such as user authentication, persistent user profiles, saved favorite places, and fitness progress
