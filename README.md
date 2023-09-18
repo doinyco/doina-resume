@@ -58,9 +58,6 @@ API keys
   - Python Data Structures and Algorithms ***[CERTIFICATE](https://www.docdroid.net/TdUS7fj/certificateofcompletion-python-data-structures-and-algorithms-pdf)***
   
 - ***Ada Developers Academy*** - Full Stack Web Development & Computer Science Fundamentals  (Seattle, WA - Feb 2022/ Jan 2023) ***[CERTIFICATE](https://www.docdroid.net/n1xY0qg/doinas-certificate-pdf)***
-  Highly competitive and selective (less than 9% acceptance rate), full-time year long program (six-month program that includes classroom instruction, hands-on coding projects, and mentorship from industry professionals, followed by a five-month internship). 
-
-Ada curriculum covers a wide range of programming languages and tools, with a focus on Full-Stack Web Development. As an Ada student, I have learned to build Web Applications using modern technologies such as Javascript, React, HTML, CSS, Python, Flask and PostgreSQL.
   - Capstone Project - My Next Gym: a fullstack app which provide users an intuitive and easy-to-use interface for searching and discovering gyms, using React framework and Google Maps API
   - Tech stack: Python, Javascript, HTML, CSS, Flask, React, ProgreSQL, Heroku, Git, Github pages, Postman, Unit testing with Pytest
 - ***edX*** - online courses (June 2021/ Jan 2022): 
