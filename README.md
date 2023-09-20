@@ -2,7 +2,7 @@
 ### Redmond, WA 98052 · doinyco@gmail.com · [Linkedin](https://www.linkedin.com/in/doina-colun-97230a216/) · [Github](https://github.com/doinyco)
 
 ## SUMMARY OF QUALIFICATIONS
-- **Technical Skills:** Python, Java, Scala, Javascript, HTML, CSS, Flask, React, Spark, AWS, Git, Unix shell, SQL, PostgreSQL, OOP, Agile Software Development
+- **Technical Skills:** Python, Java, Scala, C#, Javascript, HTML, CSS, Flask, React, Spark, AWS, Git, Unix shell, SQL, PostgreSQL, OOP, Agile Software Development
 - **Excellent organization and time management abilities:** Proven ability to handle multiple responsibilities simultaneously, successfully managed the challenging Ada technical curriculum and Amazon internship tasks, by prioritizing and delivering high-quality projects on time
 - **Adaptability and flexibility:** Able to quickly learn and adapt to new technologies, cultures and processes, proven by transitioning from different environments as an Ada student to Amazon intern, and contribute to the team’s success
 - **Outstanding communication skills:** Demonstrated effective communication through requirements gathering and clarification, team presentations, seeking and adopting feedback for continuous self-improvement
@@ -54,6 +54,7 @@ API keys
 
 ## EDUCATION
 - ***LinkedIn Learning*** - online courses (Aug / Sept 2023)
+  - Learning C# ***[CERTIFICATE](https://www.docdroid.net/dlXBygc/certificateofcompletion-learning-c-pdf)***
   - Python Object-Oriented Programming ***[CERTIFICATE](https://www.docdroid.net/GzKh3pm/certificateofcompletion-python-objectoriented-programming-2-pdf)***
   - Python Data Structures and Algorithms ***[CERTIFICATE](https://www.docdroid.net/TdUS7fj/certificateofcompletion-python-data-structures-and-algorithms-pdf)***
   
