@@ -53,10 +53,10 @@ Utilized HTTP requests to send user input as prompts to the GPT-3 API and handle
 
 ## EDUCATION
 - ***LinkedIn Learning*** - online courses (Aug / Sept 2023)
-  - Azure Essential Training for Developers ***[CERTIFICATE](https://www.docdroid.net/H4REDAb/certificateofcompletion-azure-essential-training-for-developers-pdf)***
-  - Learning C# ***[CERTIFICATE](https://www.docdroid.net/dlXBygc/certificateofcompletion-learning-c-pdf)***
-  - Python Object-Oriented Programming ***[CERTIFICATE](https://www.docdroid.net/GzKh3pm/certificateofcompletion-python-objectoriented-programming-2-pdf)***
-  - Python Data Structures and Algorithms ***[CERTIFICATE](https://www.docdroid.net/TdUS7fj/certificateofcompletion-python-data-structures-and-algorithms-pdf)***
+  - Azure Essential Training for Developers - ***[CERTIFICATE](https://www.docdroid.net/H4REDAb/certificateofcompletion-azure-essential-training-for-developers-pdf)***
+  - Learning C# - ***[CERTIFICATE](https://www.docdroid.net/dlXBygc/certificateofcompletion-learning-c-pdf)***
+  - Python Object-Oriented Programming - ***[CERTIFICATE](https://www.docdroid.net/GzKh3pm/certificateofcompletion-python-objectoriented-programming-2-pdf)***
+  - Python Data Structures and Algorithms - ***[CERTIFICATE](https://www.docdroid.net/TdUS7fj/certificateofcompletion-python-data-structures-and-algorithms-pdf)***
   
 - ***Ada Developers Academy*** - Full Stack Web Development & Computer Science Fundamentals  (Seattle, WA - Feb 2022/ Jan 2023) ***[CERTIFICATE](https://www.docdroid.net/n1xY0qg/doinas-certificate-pdf)***
   - Capstone Project - My Next Gym: a fullstack app which provide users an intuitive and easy-to-use interface for searching and discovering gyms, using React framework and Google Maps API
@@ -71,5 +71,5 @@ Utilized HTTP requests to send user input as prompts to the GPT-3 API and handle
 - ***Moldova State University*** - Bachelor’s Degree in Psychology (Chisinau, Moldova - Sep 2014/ July 2017)
 
 ## NON-TECHNICAL EXPERIENCE
-***EurAupair - Au Pair (Childcare Provider)***(Redmond, WA - Mar 2018/ Apr 2020)
-***Melkior - Sales Advisor***(Chisinau, Moldova - Nov 2017/ Mar 2018)
+  - ***EurAupair - Au Pair (Childcare Provider)*** (Redmond, WA - Mar 2018/ Apr 2020)
+  - ***Melkior - Sales Advisor*** (Chisinau, Moldova - Nov 2017/ Mar 2018)
