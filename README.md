@@ -47,7 +47,7 @@ Successfully deployed the backend application on Fly.io
 ***Chatbot-app*** · [DEMO](https://www.youtube.com/watch?v=GIxmI2cO_YU) · [Github repository](https://github.com/doinyco/chatbot_application)
 - Developed an interactive web-based chat interface using Blazor and C#, allowing users to send messages and receive responses 
 - Integrated OpenAI's GPT-3.5 Turbo model into the chatbot to generate responses to user messages
-Utilized HTTP requests to send user input as prompts to the GPT-3 API and handled API responses, displaying them in the chat interface
+- Utilized HTTP requests to send user input as prompts to the GPT-3 API and handled API responses, displaying them in the chat interface
 
 
 ## EDUCATION
