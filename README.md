@@ -13,7 +13,6 @@
 - Contributed to the development of causal machine learning systems for financial investment forecasting using big data processing technologies such as Spark on the AWS cloud platform
 - Migrated features from Apache Pig (Java) to Spark (Scala), resulting in improved testability and system quality
 - Led the implementation, testing, and validation of features in Scala Spark on the AWS cloud, demonstrating expertise in designing, developing, and shipping software solutions, while optimizing feature generation run time by 40%
-- Collaborated with senior engineers to optimize resource utilization on AWS, including S3 storage and EMR clusters, achieving a 15% cost reduction while maintaining system performance and scalability.
 - Gained valuable experience in data processing and analysis, including expertise in working with big data processing technologies like EMR (Elastic MapReduce) on the AWS cloud, showcasing proficiency in leveraging cloud-based solutions for complex data tasks
 
 
