@@ -60,7 +60,7 @@ activity/history to improve user engagement and retention
   - Programming for Everybody (Getting Started with Python)
   - Introduction to Programming in C++
   - Introduction to Cloud Development with HTML, CSS, and JavaScript
-- ***Lake Washington Institute of Technology*** - Classes in Math and Communication (Sep 2019 - Jan 2021)
+- ***Lake Washington Institute of Technology*** - Classes in Math and Communication (Mar 2020/ May 2021)
 - ***Moldova State University*** - Bachelor’s Degree in Psychology (Chisinau, Moldova - Sep 2014/ July 2017)
 
 ## NON-TECHNICAL EXPERIENCE
