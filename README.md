@@ -18,17 +18,6 @@
 
 ## TECHNICAL PROJECTS
 
-***Connect Application Backend API (In Progress)*** · [Backend repository](https://github.com/doinyco/connect-application-backend)
-* Developed and managed the backend of the Connect Application, a Python web platform, utilizing the Flask framework, and designed a RESTful API following the CRUD (Create, Read, Update, Delete) model.
-* Implemented Flask login authentication to enhance user security.
-* Implemented a secure user registration and authentication system to ensure seamless user interactions.
-* Developed event management capabilities, including event creation, updates, and deletions.
-* Enabled file uploads for events, expanding multimedia capabilities.
-* Utilized PostgreSQL for efficient data storage and retrieval.
-* Successfully deployed the backend API on Fly.io for scalability and accessibility.
-* Technologies Used: Flask, Flask-Login, SQLAlchemy, PostgreSQL, Flask-Bcrypt
-* **Future Development (Current)**: Actively working on integrating the backend with a React frontend to provide a comprehensive user experience with intuitive registration and login forms. [Frontend repository](https://github.com/doinyco/connect-application-frontend)
-
 ***My Next Gym*** · [DEMO](https://www.youtube.com/watch?v=VFmsh5oNHYA) · [Github repository](https://github.com/doinyco/Backend-next-gym)
 - Designed and developed My Next Gym, a fullstack app which provide users an intuitive and easy-to-use interface for
 searching and discovering gyms, using Flask, React framework and Google Maps API
@@ -38,11 +27,16 @@ development project from start to finish
 activity/history to improve user engagement and retention
 - Successfully deployed My Next Gym using Heroku, ensuring seamless front-end and back-end functionality for users
 
-***Connect*** · [DEMO](https://www.youtube.com/watch?v=Kvo4XRs--YE) · [Github repository](https://github.com/doinyco/connect-application-backend)
-- Designed and developed Connect app,  offering user authentication, event management, and file handling functionalities using Flask
-- Implemented user authentication mechanisms using Flask-Login and Flask-Bcrypt, ensuring a high level of security for user accounts
-- Utilized SQLAlchemy to define and manage database models, ensuring data integrity and efficient data retrieval
-Successfully deployed the backend application on Fly.io 
+***Connect Application Backend API (In Progress)*** · [DEMO](https://www.youtube.com/watch?v=Kvo4XRs--YE) · [Github repository](https://github.com/doinyco/connect-application-backend)
+* Developed and managed the backend of the Connect Application, a Python web platform, utilizing the Flask framework, and designed a RESTful API following the CRUD (Create, Read, Update, Delete) model.
+* Implemented Flask login authentication to enhance user security.
+* Implemented a secure user registration and authentication system to ensure seamless user interactions.
+* Developed event management capabilities, including event creation, updates, and deletions.
+* Enabled file uploads for events, expanding multimedia capabilities.
+* Utilized PostgreSQL for efficient data storage and retrieval.
+* Successfully deployed the backend API on Fly.io for scalability and accessibility.
+* Technologies Used: Flask, Flask-Login, SQLAlchemy, PostgreSQL, Flask-Bcrypt
+* **Future Development (Current)**: Actively working on integrating the backend with a React frontend to provide a comprehensive user experience with intuitive registration and login forms. [Frontend repository](https://github.com/doinyco/connect-application-frontend) 
 
 ***Chatbot-app*** · [DEMO](https://www.youtube.com/watch?v=GIxmI2cO_YU) · [Github repository](https://github.com/doinyco/chatbot_application)
 - Developed an interactive web-based chat interface using Blazor and C#, allowing users to send messages and receive responses 
